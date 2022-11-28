@@ -1,3 +1,3 @@
-# Landing-page-Marketing
+# Landing-page-Inmobiliaria
 # Pagina hecha con Html, Css y Javascript
-# ver $ [DEMO] ("https://alan-ol.github.io/Landing-page-Marketing/")
+# ver $ [DEMO] ("https://alan-ol.github.io/Landing-Inmobiliaria/")
